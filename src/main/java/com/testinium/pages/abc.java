@@ -2,6 +2,6 @@ package com.testinium.pages;
 
 public class abc {
 	
-	//abc qa
+	//abc qa test
 
 }
